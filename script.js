@@ -12,7 +12,7 @@ if(d){
 	// btn.setAttribute('id','existing ');
 	// btn.value="Login as existing user";
 }
-console.log(btn.id);
+// console.log(btn.id);
 btn.addEventListener("click",()=>{
 	
 	let u=user.value;
